@@ -41,9 +41,9 @@ python scripts/train.py
 
 ## Dataset
 
-Automotive Dataset [here](https://drive.google.com/open?id=1w2YuR1knf3LJPfq6wVxo3frHlbqP6BqA).
-Beauty Dataset [here](https://drive.google.com/open?id=1rNNSdGvMcivdXI72SGvrd_Td1Ah2_Vo7).
-Electronics Dataset [here](https://drive.google.com/open?id=1qDX8gBWrG0pdqqkJS8HUtI6K3kKtKfuR).
+Automotive Dataset [Link](https://drive.google.com/open?id=1w2YuR1knf3LJPfq6wVxo3frHlbqP6BqA).\\
+Beauty Dataset [Link](https://drive.google.com/open?id=1rNNSdGvMcivdXI72SGvrd_Td1Ah2_Vo7).\\
+Electronics Dataset [Link](https://drive.google.com/open?id=1qDX8gBWrG0pdqqkJS8HUtI6K3kKtKfuR).\\
 
 
 
