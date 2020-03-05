@@ -17,8 +17,8 @@ This repository contains the code to reproduce the results of the paper (**Apply
 ### Installing
 
 ```
-git clone git@github.com:facebookresearch/access.git
-cd access
+git clone https://github.com/tayalkshitij/model-agnostic-methods.git
+cd model-agnostic-methods/
 ```
 
 ### How to use
