@@ -19,35 +19,27 @@ This repository contains the code to reproduce the results of the paper (**Apply
 ```
 git clone git@github.com:facebookresearch/access.git
 cd access
-pip install -e .
 ```
 
 ### How to use
 
-Evaluate the pretrained model on WikiLarge:
+Train main model:
 ```
-python scripts/evaluate.py
-```
-
-Simplify text with the pretrained model
-```
-python scripts/generate.py < my_file.complex
+python code/main_experiment/main.py <path_to_dataset>
 ```
 
-Train a model
+Train noise model
 ```
-python scripts/train.py
+python code/noise_experiment/noise_main.py <path_to_dataset>
 ```
 
 ## Dataset
 
+Google drive link for the datasets are as follow:
+
 Automotive Dataset [Link](https://drive.google.com/open?id=1w2YuR1knf3LJPfq6wVxo3frHlbqP6BqA).\\
 Beauty Dataset [Link](https://drive.google.com/open?id=1rNNSdGvMcivdXI72SGvrd_Td1Ah2_Vo7).\\
 Electronics Dataset [Link](https://drive.google.com/open?id=1qDX8gBWrG0pdqqkJS8HUtI6K3kKtKfuR).\\
-
-
-
-The model's output simplifications can be viewed on the [EASSE HTML report](http://htmlpreview.github.io/?https://github.com/facebookresearch/access/blob/master/system_output/easse_report.html).
 
 
 ## Author
