@@ -28,7 +28,7 @@ Train main model:
 python code/main_experiment/main.py <path_to_dataset>
 ```
 
-Train noise model
+Train noise model:
 ```
 python code/noise_experiment/noise_main.py <path_to_dataset>
 ```
