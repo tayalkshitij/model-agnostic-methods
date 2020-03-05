@@ -37,10 +37,13 @@ python code/noise_experiment/noise_main.py <path_to_dataset>
 
 Google drive link for the datasets are as follow:
 
-Automotive Dataset [Link](https://drive.google.com/open?id=1w2YuR1knf3LJPfq6wVxo3frHlbqP6BqA).\\
-Beauty Dataset [Link](https://drive.google.com/open?id=1rNNSdGvMcivdXI72SGvrd_Td1Ah2_Vo7).\\
-Electronics Dataset [Link](https://drive.google.com/open?id=1qDX8gBWrG0pdqqkJS8HUtI6K3kKtKfuR).\\
+Automotive Dataset [Link](https://drive.google.com/open?id=1w2YuR1knf3LJPfq6wVxo3frHlbqP6BqA).
+Beauty Dataset [Link](https://drive.google.com/open?id=1rNNSdGvMcivdXI72SGvrd_Td1Ah2_Vo7).
+Electronics Dataset [Link](https://drive.google.com/open?id=1qDX8gBWrG0pdqqkJS8HUtI6K3kKtKfuR).
 
+## Pre-trained Embeddings
+
+Glove [Link](https://nlp.stanford.edu/projects/glove/).
 
 ## Author
 
