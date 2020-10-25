@@ -57,12 +57,13 @@ See the [LICENSE](LICENSE) file for more details.
 
 When using the dataset or code, please cite our [paper](www.kshitijtayal.com/paper/coling2020/model-agnostic-methods): 
 ```
-@article{tayal,
+@article{tayalmodel,
   title={Model-agnostic Methods for Text Classification with Inherent Noise},
   author={Tayal, Kshitij and Ghosh, Rahul and Kumar, Vipin},
   journal={The 28th International Conference on Computational Linguistics},
   year={2020}
 }
+```
 
 ## Acknowledgements
 The codebase is based off [D2L](https://github.com/xingjunm/dimensionality-driven-learning) and edufonseca[https://github.com/edufonseca/icassp19]. Both are great repositories - have a look!
