@@ -1,6 +1,6 @@
 # Model-agnostic-methods for Text Classification
 
-This repository contains the code to reproduce the results of the paper (**Applying Model-agnostic Methods to Handle Inherent Noise in Large Scale Text Classification**) currently in review at KDD 2020. 
+This repository contains the code to reproduce the results of the paper (**Applying Model-agnostic Methods to Handle Inherent Noise in Large Scale Text Classification**) accepted at COLING 2020. 
 
 
 ## Getting Started
