@@ -66,4 +66,4 @@ When using the dataset or code, please cite our [paper](www.kshitijtayal.com/pap
 ```
 
 ## Acknowledgements
-The codebase is based off [D2L](https://github.com/xingjunm/dimensionality-driven-learning) and edufonseca[https://github.com/edufonseca/icassp19]. Both are great repositories - have a look!
+The codebase is based off [D2L](https://github.com/xingjunm/dimensionality-driven-learning) and [edufonseca](https://github.com/edufonseca/icassp19). Both are great repositories - have a look!
